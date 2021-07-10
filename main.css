@@ -1,0 +1,22 @@
+body{
+	background-color: #d0ecfa;
+}
+
+.page{
+	width: 100%;
+	height: fit-content;
+}
+
+#home{
+	height: 80%;
+}
+
+section img{
+	margin: 0.8em;
+	border-radius: 2em;
+}
+
+address{
+	margin: 3em;
+	font-size: larger;
+}
